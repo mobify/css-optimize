@@ -1,0 +1,19 @@
+{
+    "name": "jazzcat-client",
+    "version": "1.0.0",
+    "main": "jazzcat.js",
+    "dependencies": {
+        "mobifyjs-utils": "git@github.com:mobify/mobifyjs-utils.git#1.0.0"
+    },
+    "devDependencies": {
+        "requirejs": "2.1.10",
+        "qunit": "1.14.0",
+        "jquery": "1.11.0",
+        "mobifyjs": "git@github.com:mobify/mobifyjs.git#v2.0"
+    },
+    "ignore": [
+        "test",
+        "Gruntfile.js",
+        "*.md"
+    ]
+}
