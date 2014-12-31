@@ -8,8 +8,7 @@
     "devDependencies": {
         "requirejs": "2.1.10",
         "qunit": "1.14.0",
-        "jquery": "1.11.0",
-        "mobifyjs": "git@github.com:mobify/mobifyjs.git#v2.0"
+        "jquery": "1.11.0"
     },
     "ignore": [
         "test",
