@@ -1,4 +1,4 @@
-# cssOptimize
+# css-optimize
 
 This repo contains the client library for Mobify's CSS Concatenation
 service, Jazzcat. The client API is MIT licensed, but use of it with the
